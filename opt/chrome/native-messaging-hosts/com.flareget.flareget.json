@@ -1,0 +1,9 @@
+{
+  "name": "com.flareget.flareget",
+  "description": "Flareget Download Manager",
+  "path": "/usr/bin/flareget-chrome-host",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://hoboanjcaobnfchcnlgjhmnmogmnbipb/","chrome-extension://dpmljoeaheodlpnnhmpiemlaidlldapg/"
+  ]
+}
